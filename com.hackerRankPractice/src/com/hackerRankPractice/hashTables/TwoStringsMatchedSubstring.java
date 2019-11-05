@@ -23,7 +23,7 @@ public class TwoStringsMatchedSubstring {
 			if (s1_chars.contains(r))
 				return "YES";
 
-		return "NO";
+		return "NO";add *
 	}
 
 }
